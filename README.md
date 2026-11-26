@@ -166,6 +166,14 @@ Important implementation details:
 └── README.md
 ```
 
-## Acknowledgement
+## Project Gallery
 
-This project was developed as part of the Computer Architecture and Organization coursework at Symbiosis Institute of Technology.
+### Assembled Robotic Vehicle
+
+![Robot Front View](images/robot/robot-front-view.jpg)
+
+![Robot Side View](images/robot/robot-side-view.jpg)
+
+### System Architecture
+
+![System Block Diagram](images/diagrams/system-block-diagram.jpg)
