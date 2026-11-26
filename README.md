@@ -177,3 +177,11 @@ Important implementation details:
 ### System Architecture
 
 ![System Block Diagram](images/diagrams/system-block-diagram.jpg)
+
+## Project Documentation
+
+The complete project report covers the system design,
+hardware implementation, circuit architecture, firmware,
+testing, results, and future scope.
+
+[View Complete Project Report (PDF)](documentation/Project_Report.pdf)
